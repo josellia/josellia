@@ -1,7 +1,9 @@
 ### Hello Devas and Devs 👋
-[<a href="https://www.linkedin.com/in/jos%C3%A9lia-pires-965103170/">Linkedin</a>]
 
-[<img src="https://cdn.pixabay.com/photo/2018/03/08/05/31/technology-3207862__340.jpg" />]
+<img src="https://cdn.pixabay.com/photo/2018/09/27/09/22/web-3706562__340.jpg?&style=for-the-badge&logo=twitter&logoColor=orange" />
+
+<h2 style="color:orange">Contato</h2>
+<a href="https://www.linkedin.com/in/jos%C3%A9lia-pires-965103170/" target="_blank">Linkedin</a>
 
 <!--
 **josellia/josellia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

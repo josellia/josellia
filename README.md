@@ -1,5 +1,7 @@
 ### Hello Devas and Devs 👋
 
+[<img src="https://cdn.pixabay.com/photo/2018/03/08/05/31/technology-3207862__340.jpg" />]
+
 <!--
 **josellia/josellia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

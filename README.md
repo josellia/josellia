@@ -1,6 +1,6 @@
 ### Hello Devas and Devs 👋
 
-<img src="https://cdn.pixabay.com/photo/2018/09/27/09/22/web-3706562__340.jpg?&style=for-the-badge&logo=twitter&logoColor=orange" />
+<img src="https://cdn.pixabay.com/photo/2018/09/27/09/22/web-3706562__340.jpg" />
 
 <h2 style="color:orange">Contato</h2>
 <a href="https://www.linkedin.com/in/jos%C3%A9lia-pires-965103170/" target="_blank">Linkedin</a>

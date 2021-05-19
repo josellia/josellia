@@ -1,4 +1,5 @@
 ### Hello Devas and Devs 👋
+[<a href="https://www.linkedin.com/in/jos%C3%A9lia-pires-965103170/">Linkedin</a>]
 
 [<img src="https://cdn.pixabay.com/photo/2018/03/08/05/31/technology-3207862__340.jpg" />]
 

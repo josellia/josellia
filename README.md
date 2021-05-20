@@ -1,4 +1,12 @@
-### Hello Devas and Devs 👋
+### Fala Devas e Devs, bem vindos ao meu Github ⚡💪
+
+<h2>Aquela bio marota</h2>
+  <p>
+    Sou Analista de Desenvolvimento ☕ e uma eterna aprendiz de tecnologia _todo dia surge algo novo né!_ No momento,
+  tenho focado no Front-End. É o que eu ❤️. React.Js é o Framework que estou estudando no momento, mas 
+  já dei aquela "passeada" pelo Angular 💃. A palavra de honra aqui é aprender as linguagens que conceberam os Frameworks, pois não quero 🏊‍♂️ em águas desconhecidas!
+  
+  </p> 
 
 <img src="https://cdn.pixabay.com/photo/2018/09/27/09/22/web-3706562__340.jpg" />
 
@@ -19,4 +27,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 

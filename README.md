@@ -8,7 +8,7 @@
   
   </p> 
 
-![banner](https://user-images.githubusercontent.com/33287490/118998397-cd294e00-b95f-11eb-8882-5568b5b52b77.jpg)
+
 
 
 <h2 style="color:orange">Contato</h2>

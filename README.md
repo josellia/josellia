@@ -1,11 +1,9 @@
 ### Fala Devas e Devs, bem vindos ao meu Github ⚡💪
 
-<h2>Aquela bio marota</h2>
+<h2  color="purple">Aquela bio marota</h2>
   <p>
-    Sou Analista de Desenvolvimento ☕ e uma eterna aprendiz de tecnologia _todo dia surge algo novo né!_. No momento,
-  tenho focado no Front-End. É o que eu ❤️. React.Js é o Framework que estou estudando no momento, mas 
-  já dei aquela "passeada" pelo Angular 💃. A palavra de honra aqui é aprender as linguagens que conceberam os Frameworks, pois não quero 🏊‍♂️ em águas desconhecidas_pensadora contemporânea_!
-  
+    Sou Developer ☕ e uma eterna aprendiz de tecnologia _todo dia surge algo novo né!_. No momento,
+  tenho focado no Front-End. É o que eu ❤️.React.Js e Angular são os Frameworks que estou estudando e desenvolvendo projetos 💃. A palavra de honra aqui é aprender as linguagens que conceberam os Frameworks, pois não quero 🏊‍♂️ em águas desconhecidas_pensadora contemporânea_!
   </p> 
 
 
